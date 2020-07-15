@@ -1,10 +1,11 @@
 def add_time(start, duration):
-   return new_time
+  
+  return new_time
 
     # print("5.add_time")
     #print(add_time("11:06 PM", "2:02"))
-    print("new_time")
-    print("Enter Q to Exit")
+  print("new_time")
+ 
     
 new_time = input("Enter choice new time:")
  
